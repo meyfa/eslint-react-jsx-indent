@@ -5,7 +5,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint --ext js,jsx ."
   },
   "repository": {
     "type": "git",
