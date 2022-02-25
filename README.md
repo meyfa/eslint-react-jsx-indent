@@ -9,7 +9,7 @@ https://github.com/yannickcr/eslint-plugin-react/issues/3222.
 2. Run `npm install`.
 3. Run `npm test`.
 
-Errors will be reported for index.js and index.jsx about the `react/jsx-indent`
-rule, which do not appear to be correct. 
+Errors will be reported for index.js and index-with-jsx.jsx about the
+`react/jsx-indent` rule, which do not appear to be correct. 
 
 Alternatively have a look at the Actions (CI) workflow of this repository.
